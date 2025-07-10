@@ -71,21 +71,20 @@ Displays the result directly on the video window in real-time.
 
 ## 🙋‍♂️ About Me
 
-*Kishore K I*
-🎓 B.E – Robotics and Automation
-📍 Coimbatore, India
+**Kishore K I**  
+🎓 B.E – Robotics and Automation  
+📍 Coimbatore, India  
 🚀 Aspiring Robotics Engineer | Python Developer | Tech Explorer
 
 ---
 
 ## 📫 Contact
 
-💼 LinkedIn: www.linkedin.com/in/kishoreki
-📧 Email: kishorekiofficial@gmail.com
-🖥️ Portfolio: (coming soon)
+- 💼 LinkedIn: www.linkedin.com/in/kishoreki
+- 📧 Email: kishorekiofficial@gmail.com
+- 🖥️ Portfolio: *(coming soon)*
 
 ---
-
 ## ⭐ Star This Project
 If you found this project helpful or interesting, feel free to give it a ⭐ star on GitHub!
 
