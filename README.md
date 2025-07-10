@@ -92,7 +92,7 @@ python filename.py
 
 ## 🙋‍♂️ About Me
 
-**Kishore K I RAE**  
+**Kishore K I**  
 🎓 B.E – Robotics and Automation  
 📍 Coimbatore, India  
 🚀 Aspiring Robotics Engineer | Python Developer | Tech Explorer
