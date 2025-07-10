@@ -51,11 +51,11 @@ Hover your mouse over different regions in the video frame to see RGB and color 
 
 ---
 
-##📸 Sample Output
+## 📸 Sample Output
 
 ---
 
-##📚 How It Works
+## 📚 How It Works
 
 Captures live video from your webcam.
 
@@ -69,16 +69,16 @@ Displays the result directly on the video window in real-time.
 
 ---
 
-##🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
-Kishore K I
+*Kishore K I*
 🎓 B.E – Robotics and Automation
 📍 Coimbatore, India
 🚀 Aspiring Robotics Engineer | Python Developer | Tech Explorer
 
 ---
 
-##📫 Contact
+## 📫 Contact
 
 💼 LinkedIn: www.linkedin.com/in/kishoreki
 📧 Email: kishorekiofficial@gmail.com
@@ -86,7 +86,7 @@ Kishore K I
 
 ---
 
-##⭐ Star This Project
+## ⭐ Star This Project
 If you found this project helpful or interesting, feel free to give it a ⭐ star on GitHub!
 
 “Every pixel holds a color, and every color tells a story.”
